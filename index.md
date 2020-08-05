@@ -1,14 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
-<title>Computer Vision Training Camp at the Sapienza University of Rome</title>
-</head>
+title: Hi everyone!
 
-<body>
-<h1>Hellow :)</h1>
+## Header 2 (H1 is reserved for post titles)##
 
+### Header 3
 
+#### Header 4
 
-<hr>
-<address></address>
-<!-- hhmts start -->Last modified: Wed Aug  5 10:23:48 CEST 2020 <!-- hhmts end -->
-</body> </html>
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
