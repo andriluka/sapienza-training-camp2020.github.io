@@ -1,12 +1,13 @@
-title: Hi everyone!
+# Computer Vision Training Camp
 
-## Header 2 (H1 is reserved for post titles)##
+Introduction text goes here 
 
-### Header 3
+## Training Camp Schedule 
 
-#### Header 4
 
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
+### Day 1 
+
+| Lecture | Quiz | Self-study material | 
+| none | none | - |
+| link1 | quiz1 | - |
+
